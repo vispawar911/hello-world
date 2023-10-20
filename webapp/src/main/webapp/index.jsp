@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register Yourself for this program</h1>
+    <h1>Register Yourself for this program updated</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
